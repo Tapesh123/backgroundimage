@@ -1,2 +1,3 @@
 # backgroundimage
-DOM JavaScript Practice
+DOM JavaScript Practice: imageslider
+
